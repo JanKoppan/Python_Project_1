@@ -1,4 +1,4 @@
-Textový analyzátor
+# Python-projekt-1---Textový analyzátor
 
 Tento projekt byl vytvořen na základě zadaného úkolu a slouží k procvičení základních dovedností v jazyce Python. Zaměřuje se především na práci se vstupy od uživatele, podmínkami, seznamy, slovníky a základní textovou analýzu.
 
